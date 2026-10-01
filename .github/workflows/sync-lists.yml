@@ -1,0 +1,38 @@
+name: Synchroniser les listes
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 4 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: sync-lists
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: curl
+          coverage: none
+      - name: Telecharger et verifier
+        env:
+          NUMSTOP_STORAGE_DIR: ${{ github.workspace }}/lists
+          NUMSTOP_PUBLIC_BASE_URL: https://raw.githubusercontent.com/fmimoun/storage/main/lists
+        run: php sync-num.php
+      - name: Publier les changements
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- lists ':!lists/.mirror.lock' ':!lists/sync-status.json'
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Mettre a jour les listes Saracroche"
+          git push origin HEAD:main
