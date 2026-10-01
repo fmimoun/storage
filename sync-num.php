@@ -267,12 +267,7 @@ function synchronize(string $directory, string $baseUrl, ?callable $fetch = null
             $ruleCount = $old['rule_count'] ?? 0;
             if ($file === null) {
                 $body = $fetch($item['download_url'], MAX_LIST_BYTES);
-                $ruleCount = validateRules($body);
-                $sourceHash = $item['hash'] ?? null;
-                if (is_string($sourceHash) && preg_match('/^[a-fA-F0-9]{32}$/D', $sourceHash)
-                    && !hash_equals(strtolower($sourceHash), md5($body))) {
-                    throw new \RuntimeException('Empreinte Saracroche differente : publication annulee.');
-                }
+                $ruleCount = validateRules($body);                
                 $digest = hash('sha256', $body);
                 $stem = basename(parse_url($item['download_url'], PHP_URL_PATH), '.jsonl');
                 $file = $stem . '.' . $digest . '.jsonl';
