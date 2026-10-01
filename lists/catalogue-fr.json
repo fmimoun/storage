@@ -1,8 +1,8 @@
 [
     {
         "id": 3,
-        "name": "Numéros validés par Saracroche",
-        "description": "Cette liste contient des numéros validés par Saracroche. La liste est construite en toute transparence et vous pouvez y contribuer sur Codeberg : codeberg.org/cbouvat/saracroche-lists",
+        "name": "Numéros validés par Num",
+        "description": "Cette liste contient des numéros validés",
         "license": "CC BY-NC-SA 4.0",
         "is_enabled_by_default": true,
         "priority": 50,
@@ -11,7 +11,6 @@
         "hash": "f070aa8f6af1b3ed284c2bfca1738e21",
         "version": "2026-10-01T01:48:13.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-allow.ffbb19969fe8b441f4def049cc4bcc1c8b37ce44e2d1ff9a537da910a15c1ec9.jsonl",
-        "source_download_url": "https://app.saracroche.org/storage/fr-allow.jsonl",
         "mirror_file": "fr-allow.ffbb19969fe8b441f4def049cc4bcc1c8b37ce44e2d1ff9a537da910a15c1ec9.jsonl",
         "rule_count": 15
     },
@@ -27,14 +26,13 @@
         "hash": "58dc5a52c44744a6709220f5a2bc9643",
         "version": "2026-10-01T01:48:13.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-arcep-block.38721ca1e8bbca5821284c63a4b9ce457a13d4c9a4bcc772d527faf7d3c96724.jsonl",
-        "source_download_url": "https://app.saracroche.org/storage/fr-arcep-block.jsonl",
         "mirror_file": "fr-arcep-block.38721ca1e8bbca5821284c63a4b9ce457a13d4c9a4bcc772d527faf7d3c96724.jsonl",
         "rule_count": 22
     },
     {
         "id": 6,
         "name": "Opérateurs français les plus signalés par la communauté",
-        "description": "Liste des préfixes téléphoniques attribués à des opérateurs les plus signalés par la communauté Saracroche pour leurs appels de démarchage. Tous les numéros sont automatiquement bloqués.",
+        "description": "Liste des préfixes téléphoniques attribués à des opérateurs les plus signalés par la communauté pour leurs appels de démarchage. Tous les numéros sont automatiquement bloqués.",
         "license": "CC BY-NC-SA 4.0",
         "is_enabled_by_default": true,
         "priority": 200,
@@ -43,7 +41,6 @@
         "hash": "60a3d7eaab897a5c1bd7bc95943e6905",
         "version": "2026-10-01T01:48:13.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-operators-block.68737b2fe52d5be49a02ef85c3873515f2cd540cd9ea35b3a6cb0c79611109ad.jsonl",
-        "source_download_url": "https://app.saracroche.org/storage/fr-operators-block.jsonl",
         "mirror_file": "fr-operators-block.68737b2fe52d5be49a02ef85c3873515f2cd540cd9ea35b3a6cb0c79611109ad.jsonl",
         "rule_count": 1202
     },
@@ -59,7 +56,6 @@
         "hash": "a9d9afd17f47cf5bc17e197c7a693642",
         "version": "2026-10-01T01:47:55.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.f9a9f552b9a0e5d10e149321f57163c5abc22f8343ef0e8156b26e1cd75a3a30.jsonl",
-        "source_download_url": "https://app.saracroche.org/storage/fr-collaborative-block.jsonl",
         "mirror_file": "fr-collaborative-block.f9a9f552b9a0e5d10e149321f57163c5abc22f8343ef0e8156b26e1cd75a3a30.jsonl",
         "rule_count": 899
     },
@@ -75,7 +71,6 @@
         "hash": "af364180f22a96d9b67ffe8301655bd6",
         "version": "2026-10-01T01:48:13.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.37aa08466aa37af0ac3130297222529a4cb094d616eb3df88d9aeaa8ad41c3ed.jsonl",
-        "source_download_url": "https://app.saracroche.org/storage/fr-collaborative.jsonl",
         "mirror_file": "fr-collaborative.37aa08466aa37af0ac3130297222529a4cb094d616eb3df88d9aeaa8ad41c3ed.jsonl",
         "rule_count": 100955
     }
