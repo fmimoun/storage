@@ -8,8 +8,8 @@
         "priority": 50,
         "channel": "phone",
         "type": "allow",
-        "hash": "c4b46aa90c155481122fb9e6bc33abdd",
-        "version": "2026-10-09T00:15:08.000000Z",
+        "hash": "1cc0b21eeb6ad9ecf28493d970a8f2c1",
+        "version": "2026-10-10T00:15:32.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-allow.ffbb19969fe8b441f4def049cc4bcc1c8b37ce44e2d1ff9a537da910a15c1ec9.jsonl",
         "mirror_file": "fr-allow.ffbb19969fe8b441f4def049cc4bcc1c8b37ce44e2d1ff9a537da910a15c1ec9.jsonl",
         "rule_count": 15
@@ -23,8 +23,8 @@
         "priority": 100,
         "channel": "phone",
         "type": "block",
-        "hash": "43967434864fef25a99725346f5092aa",
-        "version": "2026-10-09T00:15:08.000000Z",
+        "hash": "bb2e1bb7dca9ecc6d4f69fe70e574320",
+        "version": "2026-10-10T00:15:32.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-arcep-block.38721ca1e8bbca5821284c63a4b9ce457a13d4c9a4bcc772d527faf7d3c96724.jsonl",
         "mirror_file": "fr-arcep-block.38721ca1e8bbca5821284c63a4b9ce457a13d4c9a4bcc772d527faf7d3c96724.jsonl",
         "rule_count": 22
@@ -38,8 +38,8 @@
         "priority": 200,
         "channel": "phone",
         "type": "block",
-        "hash": "cf02c683f0068fcaadc876ab7ecc03bf",
-        "version": "2026-10-09T00:15:08.000000Z",
+        "hash": "42175a56114cae8f772b32ff066f5fd9",
+        "version": "2026-10-10T00:15:32.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-operators-block.67020252a9c78090f5f971e7aaf26f92fe62362281599cfc7a7401fa39e3105b.jsonl",
         "mirror_file": "fr-operators-block.67020252a9c78090f5f971e7aaf26f92fe62362281599cfc7a7401fa39e3105b.jsonl",
         "rule_count": 1208
@@ -53,11 +53,11 @@
         "priority": 400,
         "channel": "phone",
         "type": "block",
-        "hash": "5193a1811ccdfa609dd057c93e2fffd2",
-        "version": "2026-10-09T00:15:08.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.f422ddd44727f47b72e85d6abf5f811d31057cb3cde68c575ed0fa9d0dabbdf1.jsonl",
-        "mirror_file": "fr-collaborative-block.f422ddd44727f47b72e85d6abf5f811d31057cb3cde68c575ed0fa9d0dabbdf1.jsonl",
-        "rule_count": 1013
+        "hash": "73774ae1dfb048b46bab395718b58dd9",
+        "version": "2026-10-10T00:15:32.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.6b5a28cce07182dffd10ec9da69e05a0cbbe9033c2a19f5fc901736387d2474c.jsonl",
+        "mirror_file": "fr-collaborative-block.6b5a28cce07182dffd10ec9da69e05a0cbbe9033c2a19f5fc901736387d2474c.jsonl",
+        "rule_count": 1026
     },
     {
         "id": 9,
@@ -68,10 +68,10 @@
         "priority": 500,
         "channel": "phone",
         "type": "allow",
-        "hash": "758c2db22a1ddac3c6bc078d5a596052",
-        "version": "2026-10-09T00:15:08.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.0c59d7c1be59f61072e7c51b8050b0d8e7ff57debb3c75f09fd07c568eb12c59.jsonl",
-        "mirror_file": "fr-collaborative.0c59d7c1be59f61072e7c51b8050b0d8e7ff57debb3c75f09fd07c568eb12c59.jsonl",
-        "rule_count": 109735
+        "hash": "62c56841a48d48587841b75886c94d46",
+        "version": "2026-10-10T00:15:32.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.80b05e110131879dedfbc3bf1b5bcb8af1423444b42e796994a589c66b3c2725.jsonl",
+        "mirror_file": "fr-collaborative.80b05e110131879dedfbc3bf1b5bcb8af1423444b42e796994a589c66b3c2725.jsonl",
+        "rule_count": 111022
     }
 ]
