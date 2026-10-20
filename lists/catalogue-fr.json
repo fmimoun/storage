@@ -24,7 +24,7 @@
         "channel": "phone",
         "type": "block",
         "hash": "5fb9169d94f9ee4be6a2351bafc9ad92",
-        "version": "2026-10-14T00:15:16.000000Z",
+        "version": "2026-10-20T00:15:34.000000Z",
         "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-arcep-block.38721ca1e8bbca5821284c63a4b9ce457a13d4c9a4bcc772d527faf7d3c96724.jsonl",
         "mirror_file": "fr-arcep-block.38721ca1e8bbca5821284c63a4b9ce457a13d4c9a4bcc772d527faf7d3c96724.jsonl",
         "rule_count": 22
@@ -53,11 +53,11 @@
         "priority": 400,
         "channel": "phone",
         "type": "block",
-        "hash": "7f00dde8a6e829bc761c8eed71c86374",
-        "version": "2026-10-19T00:15:28.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.72f056ec6e3e5104120beb26955a06c8a0ec7869a0ce4dc28effaf9c096d73aa.jsonl",
-        "mirror_file": "fr-collaborative-block.72f056ec6e3e5104120beb26955a06c8a0ec7869a0ce4dc28effaf9c096d73aa.jsonl",
-        "rule_count": 1083
+        "hash": "999494f56cdea9a289ee064ba9fbd1d1",
+        "version": "2026-10-20T00:15:35.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.f1e90f91d8313e5d3708083514a5bd24905a86421fc01211db7cb6294cdaa890.jsonl",
+        "mirror_file": "fr-collaborative-block.f1e90f91d8313e5d3708083514a5bd24905a86421fc01211db7cb6294cdaa890.jsonl",
+        "rule_count": 1087
     },
     {
         "id": 9,
@@ -68,10 +68,10 @@
         "priority": 500,
         "channel": "phone",
         "type": "allow",
-        "hash": "7b2d589685d9468b8a0bd18b6add9bde",
-        "version": "2026-10-19T00:15:49.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.122a2b27e117135a80fdee46c7d5000f120f512e4fa531f876343e3f6c99ec0c.jsonl",
-        "mirror_file": "fr-collaborative.122a2b27e117135a80fdee46c7d5000f120f512e4fa531f876343e3f6c99ec0c.jsonl",
-        "rule_count": 117729
+        "hash": "31974cc8ca218686b74e7347ed069d6b",
+        "version": "2026-10-20T00:15:34.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.8b747d8d3cd677abb2e704d164776ebdbe3b71bf22ce769b004f061985820c4f.jsonl",
+        "mirror_file": "fr-collaborative.8b747d8d3cd677abb2e704d164776ebdbe3b71bf22ce769b004f061985820c4f.jsonl",
+        "rule_count": 119169
     }
 ]
