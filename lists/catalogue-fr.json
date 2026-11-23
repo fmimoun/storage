@@ -56,12 +56,12 @@
         "priority": 400,
         "channel": "phone",
         "type": "block",
-        "hash": "9dbd54c4a79fc2b6960a5d4530812f62",
-        "item_count": 1307,
-        "version": "2026-11-21T23:16:59.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.a9c5a8d6fc0ae69a7a9a6c958445760e5a6aaed439b98b38f2ee71590ab6efca.jsonl",
-        "mirror_file": "fr-collaborative-block.a9c5a8d6fc0ae69a7a9a6c958445760e5a6aaed439b98b38f2ee71590ab6efca.jsonl",
-        "rule_count": 1307
+        "hash": "b71f1fad915ab30d393c79c2a2c5d87b",
+        "item_count": 1310,
+        "version": "2026-11-22T23:17:25.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.2179d6d78de22de0efa5993455584d31e8b89bc870c5a3a5541e575835e90ecd.jsonl",
+        "mirror_file": "fr-collaborative-block.2179d6d78de22de0efa5993455584d31e8b89bc870c5a3a5541e575835e90ecd.jsonl",
+        "rule_count": 1310
     },
     {
         "id": 9,
@@ -72,11 +72,11 @@
         "priority": 500,
         "channel": "phone",
         "type": "allow",
-        "hash": "05e786a83b7a7eeab6d9be610cefb70b",
-        "item_count": 145388,
-        "version": "2026-11-21T23:17:23.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.e169baa5d4a5c7b20599eda760e0730bb30d2570186464baea5548f0e538b625.jsonl",
-        "mirror_file": "fr-collaborative.e169baa5d4a5c7b20599eda760e0730bb30d2570186464baea5548f0e538b625.jsonl",
-        "rule_count": 145388
+        "hash": "06bd79f417879fd5c500dbd5a99d9b0e",
+        "item_count": 145482,
+        "version": "2026-11-22T23:17:48.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.c4a9316a72de4fce10602014ceae63215481271d5b8d6be268dd4a0b4049093b.jsonl",
+        "mirror_file": "fr-collaborative.c4a9316a72de4fce10602014ceae63215481271d5b8d6be268dd4a0b4049093b.jsonl",
+        "rule_count": 145482
     }
 ]
