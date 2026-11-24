@@ -40,12 +40,12 @@
         "priority": 200,
         "channel": "phone",
         "type": "block",
-        "hash": "1f7b34f446fc12ded5d39867a9e7ffeb",
-        "item_count": 1062,
-        "version": "2026-11-18T23:16:18.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-operators-block.fa3e52f8f01f67b7203c6de36742061195733484c23255fb72be7558314d4bb3.jsonl",
-        "mirror_file": "fr-operators-block.fa3e52f8f01f67b7203c6de36742061195733484c23255fb72be7558314d4bb3.jsonl",
-        "rule_count": 1062
+        "hash": "c17e9521578e93f308c9b26a3fbff612",
+        "item_count": 1068,
+        "version": "2026-11-23T23:17:43.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-operators-block.8336b84ca450ef144e0fec79f90541a194b0e8bef765d2a637c9f29b63fd5018.jsonl",
+        "mirror_file": "fr-operators-block.8336b84ca450ef144e0fec79f90541a194b0e8bef765d2a637c9f29b63fd5018.jsonl",
+        "rule_count": 1068
     },
     {
         "id": 12,
@@ -56,12 +56,12 @@
         "priority": 400,
         "channel": "phone",
         "type": "block",
-        "hash": "b71f1fad915ab30d393c79c2a2c5d87b",
-        "item_count": 1310,
-        "version": "2026-11-22T23:17:25.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.2179d6d78de22de0efa5993455584d31e8b89bc870c5a3a5541e575835e90ecd.jsonl",
-        "mirror_file": "fr-collaborative-block.2179d6d78de22de0efa5993455584d31e8b89bc870c5a3a5541e575835e90ecd.jsonl",
-        "rule_count": 1310
+        "hash": "a7519ccdfe26caca9828d0a8171ab107",
+        "item_count": 1318,
+        "version": "2026-11-23T23:17:20.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.0d562d2cc31c334adcd899aa860ed81bdf25db61a2429f0169648684bddb5844.jsonl",
+        "mirror_file": "fr-collaborative-block.0d562d2cc31c334adcd899aa860ed81bdf25db61a2429f0169648684bddb5844.jsonl",
+        "rule_count": 1318
     },
     {
         "id": 9,
@@ -72,11 +72,11 @@
         "priority": 500,
         "channel": "phone",
         "type": "allow",
-        "hash": "06bd79f417879fd5c500dbd5a99d9b0e",
-        "item_count": 145482,
-        "version": "2026-11-22T23:17:48.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.c4a9316a72de4fce10602014ceae63215481271d5b8d6be268dd4a0b4049093b.jsonl",
-        "mirror_file": "fr-collaborative.c4a9316a72de4fce10602014ceae63215481271d5b8d6be268dd4a0b4049093b.jsonl",
-        "rule_count": 145482
+        "hash": "eb7a84621a41150b01c7bbe96942b3dd",
+        "item_count": 146560,
+        "version": "2026-11-23T23:17:43.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.c3cda928efc93994fce76a688358a1c98104e3290200485e1f3d848884c10e03.jsonl",
+        "mirror_file": "fr-collaborative.c3cda928efc93994fce76a688358a1c98104e3290200485e1f3d848884c10e03.jsonl",
+        "rule_count": 146560
     }
 ]
