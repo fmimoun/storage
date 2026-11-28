@@ -32,6 +32,22 @@
         "rule_count": 22
     },
     {
+        "id": 17,
+        "name": "Opérateurs de cartes prépayées",
+        "description": "Liste des préfixes téléphoniques attribués aux opérateurs de cartes prépayées et numéros jetables (Onoff, Syma, Lycamobile, Lebara). Cette liste n'est pas activée par défaut : activez-la manuellement pour bloquer automatiquement ces numéros.",
+        "license": "CC BY-NC-SA 4.0",
+        "is_enabled_by_default": false,
+        "priority": 150,
+        "channel": "phone",
+        "type": "block",
+        "hash": "396e415f5d8d853a31583ec5e9da5be3",
+        "item_count": 138,
+        "version": "2026-11-27T17:47:15.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-prepaid-operators-block.aaa3e49dc71aa88a5d77530b684711ac15a9e7f8c68cd810c86316ea755d1afa.jsonl",
+        "mirror_file": "fr-prepaid-operators-block.aaa3e49dc71aa88a5d77530b684711ac15a9e7f8c68cd810c86316ea755d1afa.jsonl",
+        "rule_count": 138
+    },
+    {
         "id": 6,
         "name": "Opérateurs français les plus signalés par la communauté",
         "description": "Liste des préfixes téléphoniques attribués à des opérateurs les plus signalés par la communauté pour leurs appels de démarchage. Tous les numéros sont automatiquement bloqués.",
@@ -40,12 +56,12 @@
         "priority": 200,
         "channel": "phone",
         "type": "block",
-        "hash": "c17e9521578e93f308c9b26a3fbff612",
-        "item_count": 1068,
-        "version": "2026-11-23T23:17:43.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-operators-block.8336b84ca450ef144e0fec79f90541a194b0e8bef765d2a637c9f29b63fd5018.jsonl",
-        "mirror_file": "fr-operators-block.8336b84ca450ef144e0fec79f90541a194b0e8bef765d2a637c9f29b63fd5018.jsonl",
-        "rule_count": 1068
+        "hash": "8fae7717922b130dd7a8e6471f74c4f6",
+        "item_count": 1204,
+        "version": "2026-11-27T17:47:15.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-operators-block.db60b2fcde440dbf92c334438370fbbebd46c56fc3790f97543ffe67db6510dc.jsonl",
+        "mirror_file": "fr-operators-block.db60b2fcde440dbf92c334438370fbbebd46c56fc3790f97543ffe67db6510dc.jsonl",
+        "rule_count": 1204
     },
     {
         "id": 12,
@@ -56,12 +72,12 @@
         "priority": 400,
         "channel": "phone",
         "type": "block",
-        "hash": "dbe8e1b03067c7d8a28e060ab5f5480f",
-        "item_count": 1358,
-        "version": "2026-11-26T23:17:37.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.e4eeef2ae335bed39e2fdd58abd0bab156e4d6ffc49e0c273b6fccfce4c358f7.jsonl",
-        "mirror_file": "fr-collaborative-block.e4eeef2ae335bed39e2fdd58abd0bab156e4d6ffc49e0c273b6fccfce4c358f7.jsonl",
-        "rule_count": 1358
+        "hash": "99d7c04266d51cfea62bb05cd9a3efb3",
+        "item_count": 1364,
+        "version": "2026-11-28T01:04:01.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative-block.c580b80de35d7c9516f15d09f3bee16b94b4827a50cb9eaa2454054b449b53ca.jsonl",
+        "mirror_file": "fr-collaborative-block.c580b80de35d7c9516f15d09f3bee16b94b4827a50cb9eaa2454054b449b53ca.jsonl",
+        "rule_count": 1364
     },
     {
         "id": 9,
@@ -72,11 +88,11 @@
         "priority": 500,
         "channel": "phone",
         "type": "allow",
-        "hash": "2edb36a0b57932b43befeb6df595cfd7",
-        "item_count": 149278,
-        "version": "2026-11-26T23:17:37.000000Z",
-        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.053c11808a190ee4e9407bbd53762345d2c61d01bcd1ed4b5dcac1bc4584a32e.jsonl",
-        "mirror_file": "fr-collaborative.053c11808a190ee4e9407bbd53762345d2c61d01bcd1ed4b5dcac1bc4584a32e.jsonl",
-        "rule_count": 149278
+        "hash": "08bd17fbee11fa55158b4a6a0348f5b4",
+        "item_count": 149520,
+        "version": "2026-11-28T01:04:22.000000Z",
+        "download_url": "https://raw.githubusercontent.com/fmimoun/storage/main/lists/fr-collaborative.1c31e7755b359c78ae5bb54055a26b7259fc207338c61517cb3c5bf32321973a.jsonl",
+        "mirror_file": "fr-collaborative.1c31e7755b359c78ae5bb54055a26b7259fc207338c61517cb3c5bf32321973a.jsonl",
+        "rule_count": 149520
     }
 ]
